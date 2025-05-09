@@ -1,0 +1,52 @@
+.feature-card-container {
+  width: 320px;
+  height: 213px;
+  margin: var(--dl-layout-space-halfunit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.feature-card-image {
+  width: var(--dl-layout-size-doubleunit);
+  height: var(--dl-layout-size-doubleunit);
+  object-fit: cover;
+}
+ 
+.feature-card-text1 {
+  font-size: 32px;
+  font-style: normal;
+  margin-top: var(--dl-layout-space-unit);
+  font-family: "Quicksand";
+  font-weight: 700;
+  margin-bottom: var(--dl-layout-space-unit);
+  text-transform: none;
+  text-decoration: none;
+}
+ 
+.feature-card-text2 {
+  font-size: 18px;
+  align-self: center;
+  text-align: center;
+}
+ 
+.feature-cardroot-class-name {
+  align-self: flex-start;
+}
+ 
+.feature-cardroot-class-name1 {
+  align-self: flex-start;
+}
+ 
+.feature-cardroot-class-name2 {
+  align-self: flex-start;
+}
+ 
+.feature-cardroot-class-name3 {
+  align-self: flex-start;
+}
+ 
+.feature-cardroot-class-name4 {
+  align-self: flex-start;
+}

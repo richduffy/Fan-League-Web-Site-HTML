@@ -1,0 +1,31 @@
+.store-banner-store-banner {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.store-banner-image1 {
+  width: 135px;
+  display: none;
+  object-fit: cover;
+}
+ 
+.store-banner-image2 {
+  width: 135px;
+  margin: 0px;
+  object-fit: cover;
+}
+ 
+.store-bannerroot-class-name {
+  top: -24px;
+  left: -663px;
+  position: absolute;
+}
+ 
+.store-bannerroot-class-name1 {
+  flex: 0;
+  display: none;
+  align-self: flex-start;
+  margin-top: 20px;
+}
